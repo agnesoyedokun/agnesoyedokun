@@ -47,6 +47,18 @@ My contributions to the Anserini and Pyserini onboarding exercises were merged i
 [Anserini onboarding PR #3409](https://github.com/castorini/anserini/pull/3409)
 [Pyserini onboarding PR #2665](https://github.com/castorini/pyserini/pull/2665)
 
+Graduate Candidate Challenge
+
+I completed a Graduate Candidate Challenge focused on research in language technology, including:
+
+Partial freezing of multilingual language models for PoS tagging
+Research proposal development for multilingual and low-resource NLP
+Scientific presentation and peer review of NLP research
+
+The implementation for the PoS-tagging experiment is available here:
+
+[Graduate Candidate Challenge](https://github.com/agnesoyedokun/graduate-candidate-challenge)
+
 Current Research Direction
 
 I am particularly interested in developing computational methods for low-resource languages, especially Yoruba.
