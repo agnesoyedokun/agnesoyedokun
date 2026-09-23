@@ -78,3 +78,4 @@ I am currently building the technical and research foundations needed to pursue 
 * [GitHub](https://github.com/agnesoyedokun)
 * [Anserini](https://github.com/agnesoyedokun/anserini)
 * [Pyserini](https://github.com/agnesoyedokun/pyserini)
+* [Graduate Candidate Challenge](https://github.com/agnesoyedokun/graduate-candidate-challenge)
